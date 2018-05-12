@@ -1,16 +1,22 @@
 _repo: Exercises-upon-the-Different-Parts-of-Italian-Speech-with-References-to-Veneroni-s-Grammar-to__50419
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Rolandi, G. B.
       gutenberg_agent_id: '45890'
       url: http://www.gutenberg.org/2009/agents/45890
+covers:
+- cover_type: archival
+  image_path: 50419-h/images/cover.jpg
 creator:
   author:
     agent_name: Bottarelli, F.
     gutenberg_agent_id: '45889'
     url: http://www.gutenberg.org/2009/agents/45889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50419#Exercises-upon-the-Different-Parts-of-Italian-Speech-with-References-to-Veneroni-s-Grammar-to_
 gutenberg_issued: '2015-11-09'
 gutenberg_type: Text
 identifiers:
